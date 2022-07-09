@@ -1,3 +1,3 @@
-# SmartBrain - Face Detection App
+# SmartBrain - Face Detection App v1
 
 
